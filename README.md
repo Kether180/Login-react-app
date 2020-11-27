@@ -1,4 +1,6 @@
-# hello-login
+
+react-login-get-post-app
+
 ## Task
 1. create a component `Login` which contains two inputs:
     1. username
