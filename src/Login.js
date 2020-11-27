@@ -20,7 +20,7 @@ const Login = ({ onLogin }) => {
     
 // TODO: do login
 
-    axios.post('http://demo-api-react-2020.herokuapp.com/login',
+    axios.post('https://demo-api-react-2020.herokuapp.com/login',
      {username, password} ).then(response => { 
       const {token} = response.data;
       onLogin(token);
