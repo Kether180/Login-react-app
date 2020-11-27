@@ -1,5 +1,4 @@
-
-react-login-get-post-app
+React.login.app
 
 ## Task
 1. create a component `Login` which contains two inputs:
